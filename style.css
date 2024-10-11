@@ -9,7 +9,7 @@
 }
 body {
     color: #ededed;
-    background: black;
+    background: rgb(231, 226, 226);
 }
 .header {
     position: fixed;
@@ -57,10 +57,14 @@ body {
     margin-left:100px ;
 
 }
+.contact p{
+    color: #0c0505;
+}
 .contact-text h2{
     font-size: 90px;
     line-height:  1;
     text-align: center;
+    color: #0c0505;
 
 }
 .contact-text h2 span{
